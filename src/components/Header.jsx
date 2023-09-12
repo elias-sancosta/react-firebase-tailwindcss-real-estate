@@ -17,7 +17,7 @@ export default function Header() {
           <img
             src="https://static.rdc.moveaws.com/images/logos/rdc-logo-default.svg"
             alt="Logo"
-            className="h-8 cursor-pointer"
+            className="h-6 cursor-pointer"
             onClick={() => navigate('/')}
           />
         </div>
